@@ -1,1 +1,3 @@
 # ML-and-AI
+
+This repository contains a sampling of machine learning and artificial intelligence projects on which I've worked over the past year or so. Everything within the repository is coded in Python and makes considerable use of Tensorflow and Keras. The Computer Vision directory contains notebooks that explore the ways in which convolutional neural networks learn from data. The AttentiveImageCaptioning.ipynb file details the process of creating an image caption generator with an attention mechanism for use with the Flickr8k dataset. Lastly, the NeuralTreesAndForests.ipynb looks into the application of neural decision trees and neural decision forests to an classification problem stemming from a structured, tabular dataset. 
